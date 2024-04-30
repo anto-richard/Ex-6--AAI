@@ -114,7 +114,6 @@ for sentence in sentences:
 ## Output :
 
 ### Sample Sentence from 'samplefile.txt' :
-
 ### Words and the respective POS-Tags :
 
 ![img1](https://github.com/anto-richard/Ex-6--AAI/assets/93427534/70e27c5c-4a34-4123-bd77-8aeac548d5a7)
